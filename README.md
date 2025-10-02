@@ -1,0 +1,1 @@
+A modern, full-stack web application for realtors to create engaging video and image reels of their property listings. Built to captivate potential buyers and streamline the online showcasing process.
